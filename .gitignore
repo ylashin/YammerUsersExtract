@@ -1,0 +1,12 @@
+*/bin/**
+*/obj/**
+*/node_modules/**
+.vs/**
+*/dist/**
+*.test.html
+**/*.user
+**/*.DotSettings
+*.csproj.user
+*.orig
+*.received.txt
+*deploy/*
